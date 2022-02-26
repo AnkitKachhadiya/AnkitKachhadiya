@@ -2,7 +2,6 @@
 
 - 🎒 I'm Computer Science graduate student at Stevens Institute of Technology, NJ. 
 - 👀 I’m interested in Software Development.
-- 🔭 I’m currently working on chrome extension.
 - 📫 Let's connect on <a href="https://www.linkedin.com/in/ankit-kachhadiya" target="_blank">linkedin</a> or email me at [akachhad@stevens.edu](mailto:akachhad@stevens.edu) / [ankit.kachhadiya16@gmail.com](mailto:ankit.kachhadiya16@gmail.com).
 
 ## My Top Languages
