@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-ankit.kachhadiya16@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ankit.kachhadiya16@gmail.com)](mailto:ankit.kachhadiya16@gmail.com)
 
 ## 📊 My Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=AnkitKachhadiya&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs&custom_title=Github&theme=github_dark#gh-dark-mode-only)](https://github.com/AnkitKachhadiya)
+[![Stats](https://github-readme-stats.vercel.app/api?username=AnkitKachhadiya&show_icons=true&rank_icon=github&hide=contribs&custom_title=Github&theme=github_dark#gh-dark-mode-only)](https://github.com/AnkitKachhadiya)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKachhadiya&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/AnkitKachhadiya)
 
 ## ⚡ Technologies
