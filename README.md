@@ -8,5 +8,3 @@
 ## My Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=AnkitKachhadiya&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs&custom_title=Github&theme=github_dark#gh-dark-mode-only)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKachhadiya&layout=compact&theme=github_dark#gh-dark-mode-only)
-![Stats](https://github-readme-stats.vercel.app/api?username=AnkitKachhadiya&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs&custom_title=Github&theme=default#gh-light-mode-only)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKachhadiya&layout=compact&theme=default#gh-light-mode-only)
