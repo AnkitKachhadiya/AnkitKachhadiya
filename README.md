@@ -5,10 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Ankit%20Kachhadiya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-kachhadiya/)](https://www.linkedin.com/in/ankit-kachhadiya/)
 [![Gmail Badge](https://img.shields.io/badge/-ankit.kachhadiya16@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ankit.kachhadiya16@gmail.com)](mailto:ankit.kachhadiya16@gmail.com)
 
-## 📊 My Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=AnkitKachhadiya&show_icons=true&rank_icon=github&hide=contribs&custom_title=Github&theme=github_dark#gh-dark-mode-only)](#)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKachhadiya&layout=compact&theme=github_dark#gh-dark-mode-only)](#)
-
 ## ⚡ Technologies
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](#)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](#)
